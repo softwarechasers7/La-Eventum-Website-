@@ -1,2 +1,3 @@
 # La-Eventum-Website-
 La Eventum Website 
+La Eventum is an event management website designed and developed using HTML, CSS, JavaScript, PHP, jQuery, and Bootstrap. It is a one-stop platform for people looking to organize events such as weddings, corporate events, conferences, exhibitions, and more. The website offers various features to its users, including event planning tools, vendor management, budgeting, ticketing, and registration, among others. With its user-friendly interface and responsive design, La Eventum makes event planning and execution easy and efficient. Whether you are a professional event planner or someone planning an event for the first time, La Eventum can help you make your event a success.
